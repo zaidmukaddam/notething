@@ -39,7 +39,7 @@ export default {
     const links = [
       {
         name: 'Website',
-        url: 'https://notething.vercel.app',
+        url: 'https://notething-website.vercel.app',
         icon: 'riGlobalLine',
       },
       {
